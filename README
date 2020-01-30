@@ -1,0 +1,8 @@
+How to compile?
+	$ make
+
+How to run?
+	$ ./run.sh
+
+
+
